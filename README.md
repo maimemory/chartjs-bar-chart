@@ -1,1 +1,2 @@
-# https://maimemory.github.io/chartjs-bar-chart/
+# chartjs-bar-chart
+https://maimemory.github.io/chartjs-bar-chart/
